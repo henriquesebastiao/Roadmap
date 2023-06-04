@@ -74,6 +74,12 @@
 
 [Sorting Algorithms in Python – Real Python](https://realpython.com/sorting-algorithms-python/)
 
+
+
+### POO
+
+[Python Classes](https://www.w3schools.com/python/python_classes.asp)
+
 ## Extras:
 
 [C for Python Programmers – Real Python](https://realpython.com/c-for-python-programmers/)
